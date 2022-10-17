@@ -1,0 +1,64 @@
+{
+  "decks": [
+    {
+      "id": 1,
+      "name": "Rendering in React",
+      "description": "React's component structure allows for quickly building a complex web application that relies on DOM manipulation. "
+    },
+    {
+      "name": "jaden",
+      "description": "jadens life \n",
+      "id": 2
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "front": "Differentiate between Real DOM and Virtual DOM.",
+      "back": "Virtual DOM updates are faster but do not directly update the HTML",
+      "deckId": 1
+    },
+    {
+      "id": 2,
+      "front": "How do you modify the state of a different React component?",
+      "back": "Not at all! State is visible to the component only.",
+      "deckId": 1
+    },
+    {
+      "front": "asdfasdf",
+      "back": "asdfad",
+      "deckId": 1,
+      "id": 13
+    },
+    {
+      "front": "jaden is not gooooood \n",
+      "back": "fghjfjfhgfjhfjfgh",
+      "deckId": 2,
+      "id": 14
+    },
+    {
+      "front": "dfgdfgsdfg",
+      "back": "dfgsdfgsdfgd",
+      "deckId": 2,
+      "id": 15
+    },
+    {
+      "front": "asdfasdfasdf",
+      "back": "asdfasdfsadf",
+      "deckId": 2,
+      "id": 16
+    },
+    {
+      "front": "asdfasdf",
+      "back": "asdfasdfasdf",
+      "deckId": 2,
+      "id": 17
+    },
+    {
+      "front": "dfgdfgdfg",
+      "back": "dfgdfgdf",
+      "deckId": 1,
+      "id": 18
+    }
+  ]
+}
